@@ -1,5 +1,5 @@
-# Power-BI-projects
-Vintage Vehicles sales analysis - Power BI
+# Power-BI-projects Vintage Vehicles sales analysis
+
 Quantity ordered analysis: 
 Overall quantity ordered is currently at 105516. 
 Quantity ordered for Order Month November and other segments are significantly higher than others.
